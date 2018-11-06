@@ -1,0 +1,23 @@
+h2 {
+    margin: 40px;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+#d {
+    float: right;
+    width: 350px;
+    height: 200px;
+}
+
+#d h2 {
+    font-size: 23px;
+}
+
+#dva {
+    float: left;
+    margin-left: 60px;
+}
